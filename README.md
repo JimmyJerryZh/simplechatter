@@ -1,6 +1,5 @@
-HOW TO RUN:__
-
-cd src__
-npm install__
-node server.js__
-npm start__
+HOW TO RUN:  
+cd src  
+npm install  
+node server.js  
+npm start  
